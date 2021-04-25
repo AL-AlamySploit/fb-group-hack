@@ -47,12 +47,12 @@ print " %s============================%s|%s======================%s " % (C, B, C
 
 print " %sFB%s Group%s Hack %s12-09-2018%s (0:55)%s" % (W, B, R, C, Y, N)
 
-print " %sDevelop by: %sMohaMMed KhaLiD %s$$$%s Mr.NemrMedo%s" % (W, R, W, Y, N)
+print " %sDevelop by: %sAhmed Mohamed %s$$$%s AL-Alamy%s" % (W, R, W, Y, N)
 print "                      %sAnd %sMaNiSh%s" % (W, R, N)
 
 print " %sCode: %sPython%s" % (W, C, N)
 
-print " %sFB: %shttps://m.facebook.com/anon.nemrmedo%s" % (W, B, N)
+print " %sFB: %shttps://m.facebook.com/ALAlamyTube%s" % (W, B, N)
 
 print " %sThis purpose is for educational only%s" % (C, N)
 
